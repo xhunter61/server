@@ -1,0 +1,3 @@
+node installieren und 
+node server.js 
+in die konsole eingeben.
